@@ -1,0 +1,25 @@
+Full Code Example:
+
+// Pin Definitions
+int proximityPin = 2;  // Pin for Proximity Sensor (Input)
+int ledPin = 13;       // Pin for LED (Output)
+int sensorValue = 0;   // Variable to hold sensor data
+
+void setup() {
+  pinMode(proximityPin, INPUT);  // Set proximity sensor pin as input
+  pinMode(ledPin, OUTPUT);       // Set LED pin as output
+  Serial.begin(9600);            // Start serial communication
+}
+
+void loop() {
+  sensorValue = digitalRead(proximityPin);  // Read the value from the proximity sensor
+  
+  if (sensorValue == HIGH) {  // Object is detected (sensor is triggered)
+    digitalWrite(ledPin, HIGH);  // Turn LED on
+    Serial.println("Object Detected!");  // Print to Serial Monitor
+  } else {  // No object detected
+    digitalWrite(ledPin, LOW);  // Turn LED off
+    Serial.println("No Object Detected.");  // Print to Serial Monitor
+  }
+  
+  delay(100);  // Delay for stability
