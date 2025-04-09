@@ -15,3 +15,5 @@ Whether you’re building an Arduino-powered sensor, a compact robotics controll
 🌡️ Integrating accessories – Add heat sinks, cable glands, and terminal blocks to enhance functionality.
 
 ✨ Finishing touches – Tips on labeling, cable management, and giving your project a polished, professional look.
+
+Please us this perfectly customized link https://jlcmc.com/?from=Ana to get you straight to the webpage!
