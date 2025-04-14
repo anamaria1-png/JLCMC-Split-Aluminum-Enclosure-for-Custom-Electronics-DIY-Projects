@@ -17,3 +17,7 @@ Whether you’re building an Arduino-powered sensor, a compact robotics controll
 ✨ Finishing touches – Tips on labeling, cable management, and giving your project a polished, professional look.
 
 Please us this perfectly customized link https://jlcmc.com/?from=Ana to get you straight to the webpage!
+
+You can also access the DIY project presented in step by step guide here: https://www.instructables.com/JLCMC-Split-Aluminum-Enclosure-for-Custom-Electron/
+Other sources of information, where you can find more about me and my work: https://www.linkedin.com/pulse/jlcmc-split-aluminum-enclosure-custom-electronics-projects-puscasu-gv5yf/?trackingId=RbpHP3sXScrkTV%2FxcTClKg%3D%3D
+
