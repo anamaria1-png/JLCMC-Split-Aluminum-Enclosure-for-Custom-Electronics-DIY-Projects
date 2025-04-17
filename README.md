@@ -1,4 +1,4 @@
-# JLCMC-Split-Aluminum-Enclosure-for-Custom-Electronics-DYI-Projects
+# JLCMC-Split-Aluminum-Enclosure-for-Custom-Electronics-DIY-Project
 
 JLCMC Split Aluminum Enclosure for Custom Electronics DIY Projects
 In this hands-on project, I’ll guide you through the process of creating a custom electronics housing using the versatile Split Aluminum Enclosure from JLCMC (dimensions: W106 x H40 x L110mm). This enclosure is a perfect solution for makers, hobbyists, and engineers looking for a durable, sleek, and professional way to protect and showcase their custom electronics.
